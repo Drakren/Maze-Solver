@@ -1,3 +1,5 @@
+Repo for Heisenberg (Micromouse v2)
+
 MotorsTest.ino has the code with functoins that we have been testing .. i.e. pid, mpu, moveForward, goForward and so on .. it is the one that we are mostly running now while testing ..
 the latest version of mpu functioning is in this file..
 
